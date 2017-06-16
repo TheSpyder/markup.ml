@@ -1,0 +1,15 @@
+{
+  "name": "markup.ml",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSpyder/markup.ml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSpyder/markup.ml/issues"
+  },
+  "homepage": "https://github.com/TheSpyder/markup.ml#readme"
+}

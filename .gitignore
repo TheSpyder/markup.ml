@@ -6,3 +6,5 @@ doc/markup.odocl
 doc/html
 doc/publish
 doc/*.zip
+lib
+node_modules

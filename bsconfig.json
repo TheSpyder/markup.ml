@@ -1,0 +1,25 @@
+{
+  "name": "markup.ml",
+  "version": "0.1.0",
+  "sources": [
+    {
+      "dir": "src",
+      "files": {
+        "slow-re": ".*.mli?$",
+        "excludes": [
+          "translate_entities.ml",
+          "markup_lwt.ml",
+          "markup_lwt.mli",
+          "markup_lwt_unix.ml",
+          "markup_lwt_unix.mli"
+        ]
+      }
+    }
+  ],
+  "bs-dependencies" : [
+    "uutf",
+    "uchar"
+  ],
+  "generate-merlin": false,
+  "package-specs": ["es6-global"]
+}
